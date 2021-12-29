@@ -1,0 +1,4 @@
+db.sqlite3
+invoice_generator/settings.py
+invoice_generator/__pycache__
+invoice/__pycache__
